@@ -21,7 +21,7 @@ If you use this project or parts of it in your research, please cite the origina
 See the [paper website](https://www.ijcai.org/proceedings/2018/0083.pdf)for more details.
 
 ## 1 Requirements
-caffe:gpu
+caffe:gpu,
 pytorch v1.3.0 (for robustness experiment)
 
 
