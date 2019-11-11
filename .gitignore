@@ -10,7 +10,7 @@ __pycache__/
 0408data1/
 0305_data_split/
 ckpt/
-hong/datasets/
+
 hong/datasets/DUT/DUT-OMRON-image/
 hong/datasets/DUT/pixelwiseGT-new-PNG/
 hong/datasets/ECSSD/images/
