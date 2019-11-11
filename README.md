@@ -42,7 +42,7 @@ After that, you can start testing with:
 Test results will be saved in this dir.
 
 ## 4 Robustness experiment
-### put checkpoint of pytorch format from:
+### put the checkpoint in pytorch format from:
     https://drive.google.com/open?id=1-6pHXUR73eTTTYss_uqmgie-wfAkEPtx
 ### to
 'ckpt/pytorch_model.ckpt'
