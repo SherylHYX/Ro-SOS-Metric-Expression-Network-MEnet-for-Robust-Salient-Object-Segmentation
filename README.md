@@ -46,7 +46,7 @@ Test results will be saved in this dir.
     https://drive.google.com/open?id=1-6pHXUR73eTTTYss_uqmgie-wfAkEPtx
 ### to
 'ckpt/pytorch_model.ckpt'
-### and fulfill the datasets used in the robustness experiment by respective official releases in respective subfolders at
+### and fulfill the datasets used in the robustness experiment by respective official releases in respective subfolders of
 'hong/datasets/'
 ### then run the robustness experiment of MEnet with pytorch v1.3.0 with which MEnet is re-implemented
 $python hong/nb42_MEnet_main_test.py
