@@ -42,13 +42,13 @@ After that, you can start testing with:
 Test results will be saved in this dir.
 
 ## 4 Robustness experiment
-### put checkpoint of pytorch format at:
+### put checkpoint of pytorch format from:
     https://drive.google.com/open?id=1-6pHXUR73eTTTYss_uqmgie-wfAkEPtx
 ### to
 'ckpt/pytorch_model.ckpt'
 ### and fulfill the datasets used in the robustness experiment by respective official releases in respective subfolders at
 'hong/datasets/'
-### then run robustness experiment of MEnet with pytorch v1.3.0 with which MEnet is re-implemented
+### then run the robustness experiment of MEnet with pytorch v1.3.0 with which MEnet is re-implemented
 $python hong/nb42_MEnet_main_test.py
 
 
