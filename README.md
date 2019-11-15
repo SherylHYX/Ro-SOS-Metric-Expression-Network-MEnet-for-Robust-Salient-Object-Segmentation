@@ -18,7 +18,7 @@ If you use this project or parts of it in your research, please cite the origina
     }
 
 
-See the [paper website](https://arxiv.org/pdf/1805.05638.pdf)for more details.
+See the [paper website](https://arxiv.org/pdf/1805.05638.pdf) for more details.
 
 ## 1 Requirements
 caffe:gpu,
