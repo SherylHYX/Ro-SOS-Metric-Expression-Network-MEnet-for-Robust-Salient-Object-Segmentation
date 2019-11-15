@@ -8,17 +8,17 @@ This repository contains a Dockerfile and scripts to build and run our Metric Ex
 
 If you use this project or parts of it in your research, please cite the original paper of MEnet:
 
-    @InProceedings{MEnet,
-      author       = "Shulian Cai, Jiabin Huang, Delu Zeng, Xinghao Ding, John Paisley",
-      title        = "MEnet: A Metric Expression Network for Salient Object Segmentation",
-      booktitle    = "Proceedings of the Twenty-Seventh International Joint Conference on Artificial Intelligence(IJCAI)",
-      month        = "May",
-      year         = "2018",
-      url          = "https://doi.org/10.24963/ijcai.2018/83"
+    @misc{zeng2018rosos,
+    title={Ro-SOS: Metric Expression Network (MEnet) for Robust Salient Object Segmentation},
+    author={Delu Zeng and Yixuan He and Li Liu and Zhihong Chen and Jiabin Huang and Jie Chen and John Paisley},
+    year={2018},
+    eprint={1805.05638},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
     }
 
 
-See the [paper website](https://www.ijcai.org/proceedings/2018/0083.pdf)for more details.
+See the [paper website](https://arxiv.org/pdf/1805.05638.pdf)for more details.
 
 ## 1 Requirements
 caffe:gpu,
